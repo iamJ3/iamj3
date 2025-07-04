@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jatin Sharma and I'm a Full Stack Developer & CS Student.</h2>
+<h2 align="left">Hi 👋! My name is Jatin Sharma and I'm a Full Stack Developer.</h2>
 
 I love turning ideas into products that solve real problems — simple as that.
 
