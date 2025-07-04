@@ -36,7 +36,7 @@ I love turning ideas into products that solve real problems — simple as that.
 
 ---
 
-### ✨ Anime Vibes
+### ✨ Coder Vibes
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhwemVoaWl5Z3g0MmU4eDRnMGV4Y2wwb3E4aGJpb2RsenRib2lvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Anime Coding GIF" height="150" />
@@ -47,23 +47,17 @@ I love turning ideas into products that solve real problems — simple as that.
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/jatin-sharma69/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="24px" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">
+  <a href="https://twitter.com/Nitaj333" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="24px" alt="Twitter" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/YOUR-DISCORD-INVITE" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="24px" alt="Discord" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@YOUR-CHANNEL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" height="24px" alt="YouTube" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+ 
+ 
+  <a href="mailto:jatinsharma.techy@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="24px" alt="Gmail" />
   </a>
 </p>
