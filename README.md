@@ -60,7 +60,4 @@ I love turning ideas into products that solve real problems — simple as that.
   </a>
 </p>
 
----
-
-<br clear="both">
 
