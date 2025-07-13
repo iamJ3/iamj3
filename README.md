@@ -47,17 +47,14 @@ I love turning ideas into products that solve real problems — simple as that.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="24px" alt="Twitter" />
   </a>
   &nbsp;&nbsp;
- 
- 
   <a href="mailto:jatinsharma.techy@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="24px" alt="Gmail" />
   </a>
- 
+   &nbsp;&nbsp;
   <a href="mailto:jatinsharma.techy@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="24px" alt="Gmail" />
   </a>
-</p>
- 
+   &nbsp;&nbsp;
   <a href="mailto:jatinsharma.techy@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="24px" alt="Gmail" />
   </a>
