@@ -51,11 +51,11 @@ I love turning ideas into products that solve real problems — simple as that.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="24px" alt="Gmail" />
   </a>
    &nbsp;&nbsp;
-  <a href="mailto:jatinsharma.techy@gmail.com" target="_blank">
+  <a href="https://discord.com/channels/nitaj.0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="24px" alt="Gmail" />
   </a>
    &nbsp;&nbsp;
-  <a href="mailto:jatinsharma.techy@gmail.com" target="_blank">
+  <a href="https://www.instagram.com/nitajvarma3?igsh=MTJ2MjBhZjV3b2p5dg==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="24px" alt="Gmail" />
   </a>
 </p>
